@@ -9,7 +9,7 @@ C output needs to be generated
 
 ### Mapper Function
 **N = Number of rows in matrix A or number of columns in matrix B**<br>
-The map function will duplicate N times as follows.<br>
+The map function will duplicate N times as follows.<br><br>
 ![image](https://user-images.githubusercontent.com/23340399/152645660-3c931c40-b2c4-4f4c-9460-340c4aa2de58.png)
 
 ### Reducer Function
