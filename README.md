@@ -8,7 +8,7 @@ C output needs to be generated
 ![image](https://user-images.githubusercontent.com/23340399/152645336-08cc6550-ca06-46bc-8b17-986babf37adb.png)
 
 ### Mapper Function
-**N = Number of rows in matrix A or number of columns in matrix B**<br>
+**N = Number of columns in matrix A or number of rows in matrix B**<br>
 The map function will duplicate N times as follows.<br><br>
 ![image](https://user-images.githubusercontent.com/23340399/152645660-3c931c40-b2c4-4f4c-9460-340c4aa2de58.png)
 
